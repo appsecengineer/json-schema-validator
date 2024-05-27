@@ -78,4 +78,6 @@ Try a variation of different payloads. You should see that there's no input vali
 curl -sSL https://raw.githubusercontent.com/we45/xml-files/master/clean-docker.sh | sh
 ```
 
-Now that we have witnessed how lack of input validation can exploit vulnerabilities in our code. In our upcoming lab session, we will delve into defense mechanisms against such attacks.
+Now that we have witnessed how lack of input validation can exploit vulnerabilities in our code.
+
+Rebuild the app using solution-index.js for a secure version of the app
